@@ -10,15 +10,15 @@ https://ipapi.co/, https://isitarealemail.com
 
 https://www.annuaire-inverse.mobi
 
-#Required Library
+Required Library
 You must install cpr & boost
 
 https://github.com/libcpr/cpr
 
-#Preview
+Preview
 ![image](https://user-images.githubusercontent.com/83141130/212472348-68b7ff3a-884d-4430-a272-19f0f69d4b90.png)
 
-#How to use
+How to use
 Compile code or download .exe release.
 
 zsint help for see all commands
